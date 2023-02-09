@@ -1,0 +1,15 @@
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\bin\Debug\net6.0\Atv203a.exe
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\bin\Debug\net6.0\Atv203a.deps.json
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\bin\Debug\net6.0\Atv203a.runtimeconfig.json
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\bin\Debug\net6.0\Atv203a.dll
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\bin\Debug\net6.0\Atv203a.pdb
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.csproj.AssemblyReference.cache
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.AssemblyInfoInputs.cache
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.AssemblyInfo.cs
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.csproj.CoreCompileInputs.cache
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.dll
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\refint\Atv203a.dll
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.pdb
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\Atv203a.genruntimeconfig.cache
+C:\Users\leszc\OneDrive\Documentos\Projetos Visual\Atv203a\Atv203a\obj\Debug\net6.0\ref\Atv203a.dll
